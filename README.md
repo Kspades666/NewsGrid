@@ -4,3 +4,4 @@ Features
 Responsive Design: Adapts seamlessly to different screen sizes.
 HTML & CSS: Utilizes fundamental web technologies for structure and styling.
 Grid Layout: Organizes news articles in a visually appealing grid format.
+![Uploading image.png…]()
